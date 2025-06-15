@@ -1,3 +1,8 @@
+* {
+  z-index: 1 ;
+  position: relative ;
+}
+
 .from-container{
     margin: 4rem 6rem;
     color: #2a2a2a;
